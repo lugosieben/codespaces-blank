@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          	SCRIPT
+// @name            Userscript
 // @description     SCRIPT DESCRIPTION
 // @icon            https://raw.github.com/sepehr/userscript-SCRIPT/master/SCRIPT.png
 //
